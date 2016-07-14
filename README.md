@@ -1,1 +1,1 @@
-# wordcount
+# stat count of specific words.
